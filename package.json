@@ -21,6 +21,8 @@
     "url": "https://github.com/robertoachar/react-lambda-netlify/issues"
   },
   "dependencies": {
+    "dotenv": "7.0.0",
+    "nodemailer": "5.1.1",
     "react": "16.8.4",
     "react-dom": "16.8.4",
     "react-scripts": "2.1.8"
