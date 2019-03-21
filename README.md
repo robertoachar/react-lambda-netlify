@@ -20,13 +20,15 @@ $ npm install
 
 - Run scripts
 
-| Action                      | Usage           |
-| --------------------------- | --------------- |
-| Start development mode      | `npm start`     |
-| Build for production        | `npm run build` |
-| Lint code                   | `npm run lint`  |
-| Run tests                   | `npm run test`  |
-| Eject from create-react-app | `npm run eject` |
+| Action                 | Usage                  |
+| ---------------------- | ---------------------- |
+| Start development mode | `npm start`            |
+| Start app              | `npm start:app`        |
+| Start lambda           | `npm start:lambda`     |
+| Build for production   | `npm run build`        |
+| Build app              | `npm run build:app`    |
+| Build lambda           | `npm run build:lambda` |
+| Lint code              | `npm run lint`         |
 
 # Author
 
