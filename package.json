@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React + Lambda + Netlify",
   "author": "Roberto Achar <robertoachar@gmail.com>",
-  "homepage": "https://github.com/robertoachar/react-lambda-netlify#readme",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
